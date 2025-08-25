@@ -1,0 +1,5 @@
+# Virtual Environment
+.venv/
+
+# PDF file in memory after merge (if there any)
+*.pdf
